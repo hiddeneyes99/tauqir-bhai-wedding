@@ -1,0 +1,9 @@
+# Local backup folder (untracked original assets)
+assets_backup_original/
+
+# Temporary & scratch files
+scratch_*
+*.pyc
+__pycache__/
+.tempmediaStorage/
+*.log
